@@ -19,9 +19,9 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahmad-ridha-bbbb49125" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="25px" style="padding-right:10px;" /></a>
-  <a href="https://www.hackerrank.com/power_of_learn" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="25px" style="padding-right:10px;" /></a>
-  <a href="https://www.leetcode.com/tlw98uiagw" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="25px" style="padding-right:10px;" /></a>
+  <a href="https://linkedin.com/in/ahmad-ridha-bbbb49125" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="25px" style="padding-right:10px;" /></a>
+  <a href="https://www.hackerrank.com/power_of_learn" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="25px" style="padding-right:10px;" /></a>
+  <a href="https://www.leetcode.com/tlw98uiagw" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="25px" style="padding-right:10px;" /></a>
 <img align="center" alt="" width="30px" style="padding-right:10px;" src="#" />
 </p>
 
