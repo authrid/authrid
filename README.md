@@ -56,7 +56,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=authrid&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=authrid&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=authrid&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
