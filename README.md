@@ -51,11 +51,11 @@
 
 ### 📊 GitHub Stats & Language Usage
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=authrid&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=authrid&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=authrid&theme=tokyonight&hide_border=true" height="180"/>
 </p>
