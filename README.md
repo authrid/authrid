@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=535&lines=Hi%2C+I'm+Ahmad+Ridha+%F0%9F%91%8B;Fullstack+Developer+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-<!-- Avatar -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/60636143?v=4" width="140" alt="My Avatar"/>
-</p>
-
 <p align="center">
   <b>🚀 Backend & Frontend Developer | 🌍 Open Source Enthusiast | 🧠 Lifelong Learner</b>
 </p>
