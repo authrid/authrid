@@ -51,7 +51,7 @@
 
 ### 📊 GitHub Stats & Language Usage
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=authrid&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
